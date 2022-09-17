@@ -25,6 +25,7 @@ Curated list of useful github repo.
 ### CyberSecurity
 
 - [Hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class. - useful repo for learn hacking. - [Course]
+- [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling#fundamentals) - List of resources to learn Threat Modelling - [Guide]
 
 ### Interview Prep
 
